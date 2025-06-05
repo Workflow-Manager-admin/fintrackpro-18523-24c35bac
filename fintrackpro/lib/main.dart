@@ -23,11 +23,9 @@ class FinTrackProApp extends StatelessWidget {
         colorScheme: ColorScheme.light(
           primary: primaryColor,
           secondary: accentColor,
-          background: secondaryColor,
           surface: Colors.white,
           onPrimary: Colors.white,
           onSecondary: Colors.white,
-          onBackground: Colors.black,
           onSurface: Colors.black,
         ),
         scaffoldBackgroundColor: secondaryColor,
@@ -155,7 +153,7 @@ class DashboardPage extends StatelessWidget {
                 _SummaryCard(
                   label: "Savings",
                   value: "\$950",
-                  color: theme.colorScheme.primary.withOpacity(0.4),
+                  color: theme.colorScheme.primary.withAlpha(100),
                   icon: Icons.savings,
                 ),
               ],
