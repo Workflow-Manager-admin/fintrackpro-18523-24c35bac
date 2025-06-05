@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 6, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "0f91aa3c574ddd6104006684ef1b6164", "format-version": 4, "code-base-name": "default", "filename": "fintrackpro/linux/CMakeLists.txt", "knowledge_revision": 3}

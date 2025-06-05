@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 11, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "d024f0cda91f5fe52af3dd9b305fe72a", "format-version": 4, "code-base-name": "default", "filename": "fintrackpro/README.md", "knowledge_revision": 9}

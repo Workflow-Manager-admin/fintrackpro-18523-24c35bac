@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/fintrackpro-18523-24c35bac/fintrackpro
+flutter analyze
+
